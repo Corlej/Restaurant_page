@@ -372,7 +372,7 @@ eval("module.exports = __webpack_require__.p + \"img/two.jpg\";\n\n//# sourceURL
 /******/ 	
 /******/ 	/* webpack/runtime/publicPath */
 /******/ 	(() => {
-/******/ 		__webpack_require__.p = "./";
+/******/ 		__webpack_require__.p = "/Restaurant_page/";
 /******/ 	})();
 /******/ 	
 /******/ 	/* webpack/runtime/jsonp chunk loading */
